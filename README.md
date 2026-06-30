@@ -223,7 +223,7 @@ jupyter notebook "07 Proyecto del dia 11.ipynb"
 
 ```
 Dia 11/
-├── 07 Proyecto del dia 11.ipynb   # Notebook con el análisis completo
+├── 07 Prediccion de ventas con ML.ipynb   # Notebook con el análisis completo
 ├── Ventas.csv                      # Conjunto de datos (365 registros)
 └── README.md                       # Este documento
 ```
